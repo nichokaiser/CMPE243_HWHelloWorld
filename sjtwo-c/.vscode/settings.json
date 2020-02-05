@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "switch_led_logic.h": "c",
+        "periodic_callbacks.h": "c",
+        "mockgpio.h": "c",
+        "mockboard_io.h": "c",
+        "mockperiodic_callbacks.h": "c",
+        "mockswitch_led_logic.h": "c"
+    }
+}
